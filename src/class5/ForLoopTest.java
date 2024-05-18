@@ -3,24 +3,24 @@ package class5;
 public class ForLoopTest {
     public static void main(String[] args) {
 
-//        //increment
-//        for (int i = 0; i < 50; i += 10) {
-//            System.out.println(i);
-//        }
-//        System.out.println("===============================");
-//        //decrement
-//
-//        for (int j = 10; j >= 0; --j) {
-//            System.out.println(j);
-//        }
-//
-//        System.out.println("===============================");
-//        int account = 0;
-//        for (; account < 5; ) {
-//            account++;
-//            System.out.println(account);
-//
-//        }
+        //increment
+        for (int i = 0; i < 50; i += 10) {
+            System.out.println(i);
+        }
+        System.out.println("===============================");
+        //decrement
+
+        for (int j = 10; j >= 0; --j) {
+            System.out.println(j);
+        }
+
+        System.out.println("===============================");
+        int account = 0;
+        for (; account < 5; ) {
+            account++;
+            System.out.println(account);
+
+        }
 
         //for each loop
         int[] numbers = {50, 30, 25, 84, 99};
